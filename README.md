@@ -1,2 +1,2 @@
-# Rules-for-Me
-Rules for Surge4
+# Rules for Me
+A rule set for Surge 4.
