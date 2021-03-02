@@ -2,7 +2,7 @@
 DOMAIN-KEYWORD,mtalk.google.com
 DOMAIN,safebrowsing.googleapis.com
 
-# > Steam
+# > Staeam
 USER-AGENT,Steam*
 DOMAIN-SUFFIX,steamcontent.com
 
