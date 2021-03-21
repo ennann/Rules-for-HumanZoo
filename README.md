@@ -1,2 +1,2 @@
-# Rules for Me
-A rule set for Surge 4.
+# Rules for HumanZoo
+A rules set for Surge 4, Clash & Shadowrocket.
