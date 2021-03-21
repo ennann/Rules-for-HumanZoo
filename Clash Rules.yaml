@@ -1,10 +1,14 @@
+  # No need to worry about the form, just write the domain name and I will fix it.
+  # 不需要管格式什么样，只写你需要代理的域名就好，我会添加进去。
+  
   # 自定义规则
-  ## 您可以在此处插入您补充的自定义规则（请注意保持缩进）
   
   
   
   
   
+  
+  # Rules
   - DOMAIN-SUFFIX,pornhub.com,$app_name
   - DOMAIN-KEYWORD,pornhub,$app_name
   - DOMAIN-KEYWORD,notion,$app_name
