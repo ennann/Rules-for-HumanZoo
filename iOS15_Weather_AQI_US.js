@@ -7,7 +7,7 @@ const aqicnToken = '6672923e14d6e00dd4e0704f83e2586caab9ff8f'
 // STEP 2: 参考下方配置片段，在代理工具的配置文件中添加对应的配置。注意：script-path 后应该替换为添加 apicnToken 值后的脚本路径
 /*
 	[Script]
-	iOS15美标空气质量 = type=http-response,pattern=https://weather-data.apple.com/v2/weather/[\w-]+/-?[0-9]+\.[0-9]+/-?[0-9]+\.[0-9]+\?,requires-body=true,script-path=path/to/iOS15_Weather_AQI_US.js
+	iOS15美标空气质量 = type=http-response,pattern=https://weather-data.apple.com/v2/weather/[\w-]+/-?[0-9]+\.[0-9]+/-?[0-9]+\.[0-9]+\?,requires-body=true,script-path=https://raw.githubusercontent.com/YIZHEV/Rules-for-HumanZoo/master/iOS15_Weather_AQI_US.js
 
 	[MITM]
 	hostname = weather-data.apple.com
