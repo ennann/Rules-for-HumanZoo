@@ -1,5 +1,5 @@
 # Rules for HumanZoo
-A rules set for Surge 4, Clash & Shadowrocket.
+A rules set for Surge 4, Clash.
 
 
 #### Please Commit the rules you need in Clash Rules.yaml.
