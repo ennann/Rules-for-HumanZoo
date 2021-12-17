@@ -13,6 +13,7 @@
   - DOMAIN-SUFFIX,npmjs.com,$app_name
   - DOMAIN-SUFFIX,npmjs.org,$app_name
   - DOMAIN-KEYWORD,pornhub,$app_name
+  - DOMAIN-KEYWORD,linkedin,$app_name
   - DOMAIN-KEYWORD,notion,$app_name
   - DOMAIN-SUFFIX,yarnpkg.com,$app_name
   - DOMAIN-SUFFIX,pscdn.co,$app_name
