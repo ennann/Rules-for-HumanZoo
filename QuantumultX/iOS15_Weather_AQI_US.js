@@ -2,7 +2,7 @@
 // Developed by Hackl0us (https://github.com/hackl0us)
 
 const $ = new Env('AQI-US');
-$.token = 'hackl0us_aqi_token';
+$.token = '6672923e14d6e00dd4e0704f83e2586caab9ff8f';
 
 // STEP 1: 前往 https://aqicn.org/data-platform/token/ 注册账户，将申请的 API Token 填入下方
 const aqicnToken = $.getdata($.token) || '6672923e14d6e00dd4e0704f83e2586caab9ff8f';
