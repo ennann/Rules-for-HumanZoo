@@ -14,6 +14,14 @@ const aqicnToken = $.getdata($.token) || '6672923e14d6e00dd4e0704f83e2586caab9ff
 
 	[MITM]
 	hostname = weather-data.apple.com
+	
+	hostname = weather-data.apple.com
+
+	^https:\/\/weather-data\.apple\.com\/v1\/weather\/[\w-]+\/-?[0-9]+\.[0-9]+\/-?[0-9]+\.[0-9]+\? url script-response-body https://raw.githubusercontent.com/Hackl0us/SS-Rule-Snippet/master/Scripts/Surge/weather_aqi_us/iOS14_Weather_AQI_US.js
+
+	^https:\/\/weather-data\.apple\.com\/v2\/weather\/[\w-]+\/-?[0-9]+\.[0-9]+\/-?[0-9]+\.[0-9]+\? url script-response-body https://raw.githubusercontent.com/yizhev/Rules-for-HumanZoo/master/QuantumultX/iOS15_Weather_AQI_US.js
+	
+	
 */
 
 const AirQualityStandard = {
