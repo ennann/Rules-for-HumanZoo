@@ -9,6 +9,7 @@
   
   
   # Rules
+  - DOMAIN-SUFFIX,imgur.com,$app_name
   - DOMAIN-SUFFIX,pornhub.com,$app_name
   - DOMAIN-SUFFIX,npmjs.com,$app_name
   - DOMAIN-SUFFIX,npmjs.org,$app_name
